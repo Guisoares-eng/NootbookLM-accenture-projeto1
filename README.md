@@ -6,19 +6,23 @@ O tema abordado no REDME foi a educação financeira nas escolas, destacando a i
 
 A educação financeira é essencial para preparar os estudantes para lidar com desafios econômicos da vida adulta, auxiliando na tomada de decisões mais responsáveis e evitando problemas como o endividamento precoce. Dessa forma, ao alcançar a maioridade, os jovens estarão mais preparados para administrar suas finanças, compreender a importância do controle de gastos, da criação de reservas e do uso consciente do crédito.
 
-Além disso, o estudo reforça que investir em educação financeira é investir em qualidade de vida, autonomia e estabilidade para as futuras gerações, contribuindo para a formação de cidadãos mais conscientes e preparados para o mercado e para a sociedade.
+Além disso, o estudo reforça que investir eme ducação finacneira é investir em qualdiade de vida, autonomia e estabilidade para futuras gerações, contribuindo para a formação de cidadãos mais conscientes e preparados para o mercado e para a sociedade.
+
 --------------------------------------------------------------------------------
+
 📚 Fontes
 1. Educação Financeira e Metodologias Ativas: Promovendo A Consciência Financeira Por Meio De Experiências Práticas.
 2. OLITEF - Tesouro do Amanhã (https://aprendervalor.bcb.gov.br/content/config/aprendervalor/docs_aprender_valor/OLITEF_2024_CADERNO_ESTUDANTE_VFinal.pdf).
 3. Matriz de Referência de Análise e de Avaliação de Letramento Financeiro (https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_superior/matriz_de_referencia_de_analise_e_de_avaliacao_de_letramento_financeiro_pisa_2021.pdf).
 4. Educação Financeira e Consumo Consciente: Uma Abordagem Interdisciplinar.
 --------------------------------------------------------------------------------
+
 🛠️ Engenharia de Prompts e "Cicatrizes"
 - Nossa primeira pergunta foi: "Quais os principais problemas para ensinar educação financeira nas escolas e quais os planos de ação a se tomar?"
 - Dificuldade encontrada: A IA citou os problemas que podem acontecer para não ser feito o ensino de educação financeira nas escolas, porém ao idententificar o plano de ação a ser tomado, foi visto que o mesmo citou referências a longo prazo.
 - Prompt final: "Quais os principais problemas para ensinar educação financeira nas escolas e quais os planos de ação a se tomar a curto prazo e como podemos fiscalizar?"
 --------------------------------------------------------------------------------
+
 📖 Miniguia de Estudo (Entrega Final):
 A Implementação e o Impacto da Educação Financeira no Sistema Educacional Brasileiro
 
