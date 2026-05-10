@@ -1,5 +1,5 @@
 # NootbookLM-accenture-projeto1
---------------------------------------------------------------------------------
+
 🎯 Contexto e Objetivos
 
 O tema abordado no REDME foi a educação financeira nas escolas, destacando a importância de inserir esse conhecimento desde cedo na formação dos jovens. A pesquisa teve como principal objetivo conscientizar sobre a necessidade do aprendizado financeiro ainda no ambiente escolar, mostrando como conceitos básicos de organização financeira, planejamento e consumo consciente podem impactar diretamente o futuro da sociedade.
@@ -21,7 +21,7 @@ Além disso, o estudo reforça que investir em educação financeira é investir
 --------------------------------------------------------------------------------
 📖 Miniguia de Estudo (Entrega Final):
 A Implementação e o Impacto da Educação Financeira no Sistema Educacional Brasileiro
-Sumário Executivo
+
 A educação financeira (EF) consolidou-se como uma competência obrigatória no currículo escolar brasileiro, conforme estabelecido pela Base Nacional Comum Curricular (BNCC). O cenário nacional é marcado por altos índices de inadimplência — superando 63 milhões de brasileiros — e por um aumento crescente no endividamento de jovens. Diante disso, a integração da EF nas escolas não visa apenas o ensino técnico de matemática financeira (juros e porcentagens), mas a formação de cidadãos capazes de realizar um planejamento de vida consciente e sustentável. Iniciativas recentes, como a Olimpíada do Tesouro Direto de Educação Financeira (Olitef), que alcançou quase 2 milhões de estudantes em 2025, demonstram a escala e o engajamento crescente em torno do tema. A eficácia da EF é potencializada quando abordada de forma interdisciplinar, conectando-se a temas como o consumo consciente, a sustentabilidade ambiental (ODS) e a participação familiar.
 --------------------------------------------------------------------------------
 1. O Cenário Econômico e a Necessidade de Intervenção
